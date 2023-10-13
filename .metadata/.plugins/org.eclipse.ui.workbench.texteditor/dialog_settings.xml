@@ -6,32 +6,32 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="lombok"/>
+		<item key="selection" value="idx"/>
 		<list key="findhistory">
-			<item value="lombok"/>
-			<item value="update"/>
-			<item value="memEmail"/>
-			<item value="memID"/>
-			<item value="auth"/>
-			<item value="mvo"/>
-			<item value="script"/>
-			<item value="config"/>
-			<item value="List&lt;Auth&gt;"/>
-			<item value="회원가입을 시도할"/>
-			<item value="join.do"/>
-			<item value="header"/>
-			<item value="updateForm"/>
-			<item value="msgType"/>
-			<item value="register"/>
+			<item value="idx"/>
+			<item value="IDX"/>
+			<item value="modify"/>
+			<item value="submit"/>
+			<item value="pageFrm"/>
+			<item value="page"/>
+			<item value="this"/>
+			<item value="diplayPageNum"/>
+			<item value="Spring MVC07"/>
+			<item value="Spring MVC0"/>
+			<item value="frm"/>
+			<item value="title"/>
+			<item value="goUpdate"/>
+			<item value="b"/>
+			<item value="ubdateBt"/>
 		</list>
 		<list key="replacehistory">
 		</list>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
 		<item key="DIALOG_X_ORIGIN" value="1159"/>
-		<item key="DIALOG_Y_ORIGIN" value="474"/>
+		<item key="DIALOG_Y_ORIGIN" value="473"/>
 		<item key="DIALOG_WIDTH" value="340"/>
-		<item key="DIALOG_HEIGHT" value="454"/>
+		<item key="DIALOG_HEIGHT" value="455"/>
 		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
 	</section>
 </section>

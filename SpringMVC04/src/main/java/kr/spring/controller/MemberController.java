@@ -56,7 +56,6 @@ public class MemberController {
 				m.getMemAge() == 0 ||
 				m.getMemEmail() == null || m.getMemEmail().equals("")) {
 			// 회원가입을 할 수 없다. 하나라도 누락되어 있기 때문에
-			
 			// 실패시 joinForm.do로 msgType과 msg 내용을 보내야함
 			// msgType : 실패메세지, msg : 모든 내용을 입력하세요
 			// RedirectAttributes - 리다이렉트 방식으로 이동할때 보넬 데이터를 저장하는 객체

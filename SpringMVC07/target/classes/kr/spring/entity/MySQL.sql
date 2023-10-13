@@ -54,4 +54,8 @@ VALUES('jjy', '1234', '준용대디', '010-3333-4444');
 
 select * from tblmember;
 
+select * from tblboard;
+delete from tblboard where memid = 'pbk';
+
+commit;
 DESC TBLBOARD;
